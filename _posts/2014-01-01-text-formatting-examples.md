@@ -9,22 +9,22 @@ image: cards.jpg
 
 # Markdown Support
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+Un Pueblo Mágico es un sitio con símbolos y leyendas, poblados con historia que en muchos casos han sido escenario de hechos trascendentes para nuestro país, son lugares que muestran la identidad nacional en cada uno de sus rincones, con una magia que emana de sus atractivos; visitarlos es una oportunidad para descubrir el encanto de México.
 
 ## Basic Formatting
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
+Viajar es mucho más que ver cosas; es un cambio profundo y permanente de las ideas de la vida”
 
 ## Paragraphs
 
-This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+No podrás descubrir nuevos océanos, si no tienes el coraje para perder de vista la costa. Foto: Isla Holbox, Quintana Roo
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Viajar te hace modesto, porque puedes ver que pequeño es el lugar que ocupas en este mundo
 
 
 ## Headings
 
-Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
+Un hombre viaja por el mundo en busca de lo que necesita, y vuelve a casa para encontrarlo. 
 
 # Heading One (h1)
 
