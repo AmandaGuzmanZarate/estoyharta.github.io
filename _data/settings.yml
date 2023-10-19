@@ -8,16 +8,15 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Acerca de',   url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
+- {name: 'Blog' , url: 'writing.html'}
 - {name: 'Contactame', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github',     link: 'https://github.com/AmandaGuzmanZarate'}
-- {icon: 'twitter',    link: 'https://twitter.com/paululele'}
+- {icon: 'twitter',    link: 'https://twitter.com/mandy_guzmanzar'}
 - {icon: 'facebook',   link: 'https://www.facebook.com/mandydiessel/'}
-- {icon: 'envelope',   link: 'mailto:l.nguyen.paul@gmail.com'}
-- {icon: 'rss-square', link: '/feed.xml'}
+- {icon: 'instagram',   link: 'https://instagram.com/mandy_guzzar?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
@@ -25,8 +24,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Sientete libre de explorar y compartir!!!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Disfruta de la naturaleza'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Comparte tus xperiencias'
