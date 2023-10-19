@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Writing
+title: Aqui no hay nada XD
 permalink: /writing
 ---
