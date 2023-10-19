@@ -7,27 +7,11 @@ tags: [documentation,sample]
 image: forest.jpg
 ---
 
-# Lagrange
+# Mandy's World
 
-Lagrange is a minimalist Jekyll theme for running a personal blog or site for free through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Lagrange/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
+"Bienvenido a mi mundo, un lugar donde el turismo se combina con la sostenibilidad para crear experiencias únicas. En este rincón del planeta, valoramos la belleza de la naturaleza y las culturas locales. Cada viaje es una oportunidad para explorar, aprender y cuidar de nuestro entorno. Únete a nosotros en un viaje de descubrimiento y responsabilidad, donde el turismo sostenible es la brújula que guía nuestros pasos hacia un futuro más verde y equitativo."
 
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
 
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
-
-## Notable features
-
-* Compatible with GitHub Pages.
-
-* Support for Jekyll's built-in Sass/SCSS preprocessor and data files for making customizing easier.
-
-* [Google Analytics](https://www.google.com/analytics/) support.
-
-* Commenting support powered by [Disqus](https://disqus.com/).
-
-* Optimized for search engines.
-
-* LaTeX support through [MathJax](https://www.mathjax.org/).
 
 ## Table of Contents
 
@@ -61,33 +45,28 @@ If you like my work then please consider supporting me with [Ko-fi](https://ko-f
 8. [Credits](#credits)
 9. [License](#license)
 
-## Introduction
+## Introducciòn
 
-Lagrange is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
+"¡Bienvenido a nuestra página web de turismo sostenible! Aquí, te invitamos a descubrir un mundo de viajes que van más allá del simple turismo. Nos enorgullece ser un faro de prácticas responsables y comprometidas con el medio ambiente y las comunidades locales. Explora destinos únicos, conoce a personas apasionadas y descubre cómo tus viajes pueden marcar la diferencia. En nuestra página, encontrarás información sobre destinos ecológicos, consejos de viaje sostenible y experiencias enriquecedoras que te conectarán con la belleza del mundo de una manera que respeta y preserva nuestro planeta. Únete a nosotros en esta aventura transformadora y descubre cómo el turismo sostenible puede ser una fuerza positiva para nuestro futuro y para las generaciones venideras."
 
-### What is Jekyll?
+### ¿Que es el turismo sostenible?
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Basically, Jekyll takes your page content along with template files and produces a complete website. For more information, visit the [official Jekyll site](https://jekyllrb.com/docs/home/) for their documentation. Codecademy also offers a great course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website) for complete beginners.
+Es una forma de turismo que se enfoca en experimentar y preservar entornos naturales. El enfoque está en el medio ambiente y en la cultura local, con el objetivo de preservar ambos para las generaciones futuras. Implica también prácticas responsables de viaje, como minimizar el impacto ambiental y apoyar el desarrollo sostenible
 
-### Never Used Jekyll Before?
+### ¿Nunca has hecho turismo sostenible?
 
-The beauty of hosting your website on GitHub is that you don't have to actually have Jekyll installed on your computer. Everything can be done through the GitHub code editor, with minimal knowledge of how to use Jekyll or the command line. All you have to do is add your posts to the `_posts` directory and edit the `_config.yml` file to change the site settings. With some rudimentary knowledge of HTML and CSS, you can even modify the site to your liking. This can all be done through the GitHub code editor, which acts like a content management system (CMS).
+Es importante porque tiene muchos beneficios. En primer lugar, el turismo sostenible puede ayudar a proteger los recursos naturales y culturales de un lugar. Al minimizar el impacto ambiental, se puede garantizar que estos recursos estén disponibles para las generaciones futuras. En segundo lugar, el turismo sostenible puede ayudar a apoyar la economía local y a crear empleos en la comunidad. Al apoyar a las empresas locales y a los proveedores de servicios, se puede ayudar a mantener la cultura local y a mejorar la calidad de vida de las personas que viven allí
 
-## Installation
 
-### GitHub Pages Installation
+### Turismo local
+Permite conocer la riqueza de un lugar y aprender de él a través de las experiencias de la gente local.
 
-To start using Jekyll right away with GitHub Pages, [fork the Lagrange repository on GitHub](https://github.com/LeNPaul/Lagrange/fork). From there, you can rename your repository to 'USERNAME.github.io', where 'USERNAME' is your GitHub username, and edit the `settings.yml` file in the `_data` folder to your liking. Ensure that you have a branch named `gh-pages`. Your website should be ready immediately at 'http://USERNAME.github.io'. Note: if you are hosting several sites under the same GitHub username, then you will have to use [Project Pages instead of User Pages](https://help.github.com/articles/user-organization-and-project-pages/) - just change the repository name to something other than 'http://USERNAME.github.io'.
+### Turismo sostenible en Mèxico
 
-Head over to the `_posts` directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.
+Cascadas de Tamasopo, San Luis Potosí
+Comenzamos nuestra lista con las cascadas de Tamasopo, que incluye tres cascadas de 15 metros aproximadamente, el lugar perfecto para nadar, hacer algunas actividades acuáticas y salir de la rutina. 
 
-### Local Installation
-
-For a full local installation of Lagrange, [download your own copy of Lagrange](https://github.com/LeNPaul/Lagrange/archive/gh-pages.zip) and unzip it into it's own directory. From there, open up your favorite command line tool, enter `bundle install`, and then enter `jekyll serve`. Your site should be up and running locally at [http://localhost:4000](http://localhost:4000).
-
-### Directory Structure
-
-If you are familiar with Jekyll, then the Lagrange directory structure shouldn't be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the [Jekyll documentation site](https://jekyllrb.com/docs/structure/).
+Es un lugar pequeño en el que podrás acampar o rentar una cabaña. Es una área protegida por la que debes de pagar tu entrada cada día. La entrada es solo de 5 pesos por día.
 
 ```bash
 Lagrange/
