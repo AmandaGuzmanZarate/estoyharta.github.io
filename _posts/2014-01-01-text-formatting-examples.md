@@ -7,22 +7,23 @@ tags: [documentation,sample]
 image: cards.jpg
 ---
 
-# Markdown Support
+# Pueblos magicos
+
 
 Un Pueblo Mágico es un sitio con símbolos y leyendas, poblados con historia que en muchos casos han sido escenario de hechos trascendentes para nuestro país, son lugares que muestran la identidad nacional en cada uno de sus rincones, con una magia que emana de sus atractivos; visitarlos es una oportunidad para descubrir el encanto de México.
 
-## Basic Formatting
+## Razones
 
 Viajar es mucho más que ver cosas; es un cambio profundo y permanente de las ideas de la vida”
 
-## Paragraphs
+## Atrevete
 
 No podrás descubrir nuevos océanos, si no tienes el coraje para perder de vista la costa. Foto: Isla Holbox, Quintana Roo
 
 Viajar te hace modesto, porque puedes ver que pequeño es el lugar que ocupas en este mundo
 
 
-## Headings
+## Disfruta
 
 Un hombre viaja por el mundo en busca de lo que necesita, y vuelve a casa para encontrarlo. 
 
