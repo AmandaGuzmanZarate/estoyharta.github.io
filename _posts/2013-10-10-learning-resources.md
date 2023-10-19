@@ -13,10 +13,10 @@ El amor por viajar y estar cerca de la naturaleza es una pasión que despierta e
 
 La naturaleza reporta multitud de beneficios y valores biológicos, sociales, económicos, culturales – entre otros- a las personas, a la sociedad y al lugar donde vivimos. Pocas veces valores como restauración psicológica, resiliencia o biodiversidad son incorporados en el diseño de productos turísticos.
 
-## [Codecademy](https://www.codecademy.com/)
+## Turismo sostenible
 
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
+Viajar a lugares ricos en naturaleza en México puede ser una experiencia muy gratificante. El ecoturismo es una forma de turismo que se centra en experimentar y preservar entornos naturales. El enfoque está en el medio ambiente y en la cultura local, con el objetivo de preservar ambos para las generaciones futuras. Implica también prácticas responsables de viaje, como minimizar el impacto ambiental y apoyar el desarrollo sostenible.
 
-## [Khan Academy](https://www.khanacademy.org/)
+## Beneficios
 
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+Además, los viajes ecosostenibles generan grandes beneficios; a parte del ambiental, se añade el económico, el cultural y los beneficios sociales. Atiende a la perfección las necesidades de los visitantes, la industria y las comunidades hospitalarias 
