@@ -17,9 +17,10 @@ Este es mi pagina web personal, solo quiero sacar el fua.
 
 Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
 
-## Questions?
+## ¿Preguntas?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+¿Ventajas de viajar?
+El turismo sostenible nos brinda la mejor opción para poder practicar ese viaje tan deseado, creando buenos hábitos y asegurando positivamente el impacto y beneficio que tendrá nuestra visita en determinados lugares. 
 
 ## More Jekyll!
 
