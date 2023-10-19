@@ -21,11 +21,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Nueva'
+  previous_page: 'Anterior'
 
 sharing_button_prompt: 'Sientete libre de explorar y compartir!!!'
 
 related_posts: 'Disfruta de la naturaleza'
 
-post_date_prefix: 'Comparte tus xperiencias'
+post_date_prefix: 'Comparte tus experiencias'
