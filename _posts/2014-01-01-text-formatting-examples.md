@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting Examples"
+title: "La naturaleza y su belleza"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
