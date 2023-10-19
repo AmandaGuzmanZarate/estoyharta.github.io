@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bienvenidos a mi mundo!!!"
+title: "Bienvenidos!!!"
 author: "Ing. Guzman"
 categories: journal
 tags: [documentation,sample]
@@ -11,11 +11,11 @@ Al fin lo logre!!!
 
 ## Comencemos
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+El turismo sostenible es bueno porque...
 
-## Acerca de viajar
+## Acerca del turismo sostenibe
 
-Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Impulsa el desarrollo económico y social de las zonas rurales y menos transitadas.
 
 ## ¿Preguntas?
 
